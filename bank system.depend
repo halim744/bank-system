@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1738439759 source:c:\users\loq\documents\github\bank-system\main.cpp
+	<iostream>
+	<string>
+	<exception>
+	"Validator.h"
+
+1738443669 c:\users\loq\documents\github\bank-system\include\validator.h
+	<iostream>
+
