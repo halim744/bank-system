@@ -8,3 +8,45 @@
 1738443669 c:\users\loq\documents\github\bank-system\include\validator.h
 	<iostream>
 
+1738525930 source:c:\users\pc\onedrive\desktop\bank system\main.cpp
+	<iostream>
+	<string>
+	<exception>
+	"Validator.h"
+	"Client.h"
+	"Employee.h"
+
+1738523024 c:\users\pc\onedrive\desktop\bank system\include\validator.h
+	<iostream>
+
+1738513307 source:c:\users\pc\onedrive\desktop\bank system\src\validator.cpp
+	"Validator.h"
+
+1738525221 source:c:\users\pc\onedrive\desktop\bank system\src\person.cpp
+	"Person.h"
+
+1738526143 c:\users\pc\onedrive\desktop\bank system\include\person.h
+	<iostream>
+	"Validator.h"
+
+1738525643 source:c:\users\pc\onedrive\desktop\bank system\src\client.cpp
+	"Client.h"
+
+1738526112 c:\users\pc\onedrive\desktop\bank system\include\client.h
+	<iostream>
+	"Person.h"
+
+1738525794 source:c:\users\pc\onedrive\desktop\bank system\src\employee.cpp
+	"Employee.h"
+
+1738525981 c:\users\pc\onedrive\desktop\bank system\include\employee.h
+	<iostream>
+	"Person.h"
+
+1738526263 source:c:\users\pc\onedrive\desktop\bank system\src\admin.cpp
+	"Admin.h"
+	<iostream>
+	"Employee.h"
+
+1738526278 c:\users\pc\onedrive\desktop\bank system\include\admin.h
+
