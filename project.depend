@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1738619979 source:c:\users\pc\onedrive\desktop\project\main.cpp
+	<iostream>
+	"Person.h"
+	"Client.h"
+	"Employee.h"
+	"Admin.h"
+
+1738614696 source:c:\users\pc\onedrive\desktop\project\src\validator.cpp
+	"Validator.h"
+
+1738614687 c:\users\pc\onedrive\desktop\project\include\validator.h
+	<iostream>
+	<string>
+
+1738619291 source:c:\users\pc\onedrive\desktop\project\src\person.cpp
+	"Person.h"
+
+1738619313 c:\users\pc\onedrive\desktop\project\include\person.h
+	<iostream>
+	<string>
+	"Validator.h"
+
+1738619377 source:c:\users\pc\onedrive\desktop\project\src\client.cpp
+	"Client.h"
+
+1738619398 c:\users\pc\onedrive\desktop\project\include\client.h
+	<iostream>
+	<string>
+	"Person.h"
+
+1738619849 source:c:\users\pc\onedrive\desktop\project\src\employee.cpp
+	"Employee.h"
+
+1738619849 c:\users\pc\onedrive\desktop\project\include\employee.h
+	<iostream>
+	<string>
+	"Person.h"
+
+1738619969 source:c:\users\pc\onedrive\desktop\project\src\admin.cpp
+	"Admin.h"
+
+1738619969 c:\users\pc\onedrive\desktop\project\include\admin.h
+	<iostream>
+	<string>
+	"Employee.h"
+
